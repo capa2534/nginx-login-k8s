@@ -1,2 +1,2 @@
 # nginx-login-k8s
-nginx server on kuebrnetes
+nginx server on kubernetes
